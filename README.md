@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @sleepyhood
-- 👀 I’m interested in painting and 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+안녕하세요. 프론트엔드를 지향하는 대학생입니다.
 
-Github blog: https://sleepyhood.github.io/
-
-<!---
-sleepyhood/sleepyhood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+blog: https://medium.com/@smartosw
