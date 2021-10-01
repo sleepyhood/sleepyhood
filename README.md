@@ -5,7 +5,7 @@ blog: https://medium.com/@smartosw
 
 [Front End]
   * html, css, js
-  * React
+  * React, React Native
 
 [Alrogithm]
   * C, C++
