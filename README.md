@@ -5,19 +5,19 @@
 
 ***
 
-<b>[Front End]</b>
+**[Front End]**
   * html, css, js
   * React, React Native
 
-<b>[Alrogithm]</b>
+**[Alrogithm]**
   * C, C++
 
-<b>[Machine Learning]</b>
+**[Machine Learning]**
   * Python (such as CNN, Linear Regression, classification...)
 
-<b>[Back End]</b>
+**[Back End]**
   * node.js (studying)
   * firebase
   
-<b>[Database]</b>
+**[Database]**
   * SQL
