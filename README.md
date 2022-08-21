@@ -2,7 +2,7 @@
 ## 커피를 제일 좋아합니다.
 
 
-Link: [blog][goblog]
+Link: [MyBlog][goblog]
 
 [goblog]: https://medium.com/@smartosw "goBlog"
 
