@@ -10,8 +10,11 @@ blog: https://medium.com/@smartosw
 [Alrogithm]
   * C, C++
 
+[Machine Learning]
+  * Python (such as CNN, Linear Regression, classification...)
+
 [Back End]
-  * node.js
+  * node.js (studying)
   * firebase
   
 [Database]
