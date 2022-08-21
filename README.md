@@ -17,6 +17,8 @@ Link: [MyBlog][goblog]
 
 **[Machine Learning]**
   * Python (such as CNN, Linear Regression, classification...)
+  * tensorflow
+  * scikit learn
 
 **[Back End]**
   * node.js (studying)
