@@ -1,7 +1,8 @@
-#안녕하세요. 풀스택을 지향하는 대학생입니다.
-##커피를 제일 좋아합니다.
+# 안녕하세요. 풀스택을 지향하는 대학생입니다.
+## 커피를 제일 좋아합니다.
 
-blog: https://medium.com/@smartosw
+[blog](https://medium.com/@smartosw, goBlog)
+
 ***
 
 <b>[Front End]</b>
