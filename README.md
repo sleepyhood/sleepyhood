@@ -1,21 +1,21 @@
 <h1>안녕하세요. 풀스택을 지향하는 대학생입니다.
-커피를 제일 좋아합니다.
+<h2>커피를 제일 좋아합니다.
 
 blog: https://medium.com/@smartosw
 
-[Front End]
+<b>[Front End]</b>
   * html, css, js
   * React, React Native
 
-[Alrogithm]
+<b>[Alrogithm]</b>
   * C, C++
 
-[Machine Learning]
+<b>[Machine Learning]</b>
   * Python (such as CNN, Linear Regression, classification...)
 
-[Back End]
+<b>[Back End]</b>
   * node.js (studying)
   * firebase
   
-[Database]
+<b>[Database]</b>
   * SQL
