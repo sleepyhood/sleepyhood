@@ -2,9 +2,11 @@
 ### 커피를 제일 좋아합니다.
 ### 현재는 코딩 학원에서 학생들을 가르치고 있습니다.
 
+Portfolio: [MyPortfolio][port]
 Link: [MyBlog][goblog]
 
 [goblog]: https://medium.com/@smartosw "goBlog"
+[port]: https://sleepyhood.github.io/osw_portfolio/#/
 
 ***
 
