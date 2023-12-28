@@ -6,6 +6,8 @@
 ### ☕ 커피를 제일 좋아합니다.
 ### 🤓 1년동안 프로그래밍 학원에서 학생들을 가르쳤습니다.
 
+![sleepyhood's github stats](https://github-readme-stats.vercel.app/api?username=sleepyhood&show_icons=true)
+[![sleepyhood's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyhood&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sleepyhood)
 
 Portfolio: [MyPortfolio][port]   <- modify need
 
