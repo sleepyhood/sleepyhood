@@ -27,3 +27,7 @@ Link: [MyBlog][goblog]
   
 **[Database]**
   * MYSQL, firebase
+
+**[License]**
+  * ADsP
+  * SQLD
