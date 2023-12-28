@@ -2,7 +2,7 @@
 ### 커피를 제일 좋아합니다.
 ### 1년동안 프로그래밍 학원에서 학생들을 가르쳤습니다.
 
-Portfolio: [MyPortfolio][port]
+Portfolio: [MyPortfolio][port]   <- modify need
 
 Link: [MyBlog][goblog]
 
