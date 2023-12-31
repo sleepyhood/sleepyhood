@@ -43,11 +43,14 @@
 ## 🪀Personal Projects
 _(이미지를 누르면, 해당 repository로 이동합니다.)_
 
-[![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/4ca2a34f-241c-4d3d-b347-2fcc17c1adcd)](https://github.com/sleepyhood/COVID19_Classification) 
-[![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/a629822c-3dfa-4d05-81ba-81039fce3192)](https://github.com/sleepyhood/FIFA_Crawling) 
+[![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/bacaac93-ca47-486b-8a82-68b8b919a032)](https://github.com/sleepyhood/COVID19_Classification) 
+[![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/fae58ba2-cf82-49b7-8646-8bd0e9c74840)](https://github.com/sleepyhood/FIFA_Crawling) 
+[![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/4d2865d5-90c5-4345-bdf9-1d0a0265644d)](https://github.com/sleepyhood/Capstone_Design) 
+
 
 ---
 </div>
+
 
 
 
