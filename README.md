@@ -40,8 +40,8 @@
 
 ---
 
-## Personal Projects
-
+## 🪀Personal Projects
+_(이미지를 누르면, 해당 repository로 이동합니다.)_
 
 [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/4ca2a34f-241c-4d3d-b347-2fcc17c1adcd)](https://github.com/sleepyhood/COVID19_Classification) 
 [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/a629822c-3dfa-4d05-81ba-81039fce3192)](https://github.com/sleepyhood/FIFA_Crawling) 
