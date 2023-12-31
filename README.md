@@ -42,15 +42,11 @@
 
 ## Personal Projects
 
-[![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/ccab89f9-03ef-4419-b968-66bb653b93ae)](https://github.com/sleepyhood/FIFA_Crawling)
-[![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/38da9286-1af7-4898-86f8-a633eef92a2b)](https://github.com/sleepyhood/FIFA_Crawling) [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/38da9286-1af7-4898-86f8-a633eef92a2b)](https://github.com/sleepyhood/FIFA_Crawling) [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/38da9286-1af7-4898-86f8-a633eef92a2b)](https://github.com/sleepyhood/FIFA_Crawling) [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/38da9286-1af7-4898-86f8-a633eef92a2b)](https://github.com/sleepyhood/FIFA_Crawling) [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/38da9286-1af7-4898-86f8-a633eef92a2b)](https://github.com/sleepyhood/FIFA_Crawling) [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/38da9286-1af7-4898-86f8-a633eef92a2b)](https://github.com/sleepyhood/FIFA_Crawling) 
+
+[![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/978cb630-c2a0-4c88-9d5e-02868f2546a8)](https://github.com/sleepyhood/COVID19_Classification) 
+
 
 ---
-
-[![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/096abb6c-9796-470c-a109-f012772a172e)](https://github.com/sleepyhood/FIFA_Crawling) [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/096abb6c-9796-470c-a109-f012772a172e)](https://github.com/sleepyhood/FIFA_Crawling) [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/096abb6c-9796-470c-a109-f012772a172e)](https://github.com/sleepyhood/FIFA_Crawling) 
-
-
-
 </div>
 
 
