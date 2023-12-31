@@ -43,10 +43,8 @@
 ## Personal Projects
 
 
-[![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/978cb630-c2a0-4c88-9d5e-02868f2546a8)](https://github.com/sleepyhood/COVID19_Classification) 
-[![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/a90f323f-12c5-42d5-9b25-8d3590144359)](https://github.com/sleepyhood/FIFA_Crawling) 
-
-
+[![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/4ca2a34f-241c-4d3d-b347-2fcc17c1adcd)](https://github.com/sleepyhood/COVID19_Classification) 
+[![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/a629822c-3dfa-4d05-81ba-81039fce3192)](https://github.com/sleepyhood/FIFA_Crawling) 
 
 ---
 </div>
