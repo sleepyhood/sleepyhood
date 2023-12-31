@@ -46,7 +46,7 @@ _(이미지를 누르면, 해당 repository로 이동합니다.)_
 [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/bacaac93-ca47-486b-8a82-68b8b919a032)](https://github.com/sleepyhood/COVID19_Classification) 
 [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/fae58ba2-cf82-49b7-8646-8bd0e9c74840)](https://github.com/sleepyhood/FIFA_Crawling) 
 [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/4d2865d5-90c5-4345-bdf9-1d0a0265644d)](https://github.com/sleepyhood/Capstone_Design) 
-[![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/f93ab8c0-1301-4e2c-8af0-99008a05559e)](github.com/sleepyhood/Microbial-based_disease_classification) 
+[![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/f93ab8c0-1301-4e2c-8af0-99008a05559e)](https://github.com/sleepyhood/Microbial-based_disease_classification) 
 
 
 ---
