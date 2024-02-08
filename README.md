@@ -44,7 +44,7 @@
 ### 🏫Education🏫
 
 <img src="https://img.shields.io/badge/scratch-4D97FF?style=flat-square&logo=scratch&logoColor=white"/> <img src="https://img.shields.io/badge/arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-
+<img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/>
 ---
 
 ## 🪀Personal Projects
