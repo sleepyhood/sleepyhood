@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=OSW's%20GitHub&height=200&fontSize=100&animation=fadeIn)
 
 ***
@@ -11,7 +12,6 @@
 ### ☕ 커피를 제일 좋아합니다.
 
 
-<div align="center">
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=smartosw)](https://solved.ac/smartosw)
@@ -27,7 +27,6 @@
 
 
 [port]: https://sleepyhood.github.io/osw_portfolio/#/
-</div>
 ---
 
 ## ⌨️ Skills
@@ -82,3 +81,5 @@
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
+
+</div>
