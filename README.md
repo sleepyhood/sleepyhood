@@ -65,6 +65,17 @@
 [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/9846deca-27a1-4123-a8b7-6e3cf3e82cd1)](https://github.com/sleepyhood/Titanic_Survivor_Predictions) 
 -->
 
+## 📦 Archived Projects
+> 한때 열정적으로 만들었지만, 지금은 발전의 발판이 된 추억의 프로젝트들입니다.
+
+- 🦠 **COVID-19 Classification**  
+  학부 시절 R을 사용해 만든 지도학습 분류 프로젝트 (KNN, varImp 등 활용)  
+  [🔗 보기](https://github.com/sleepyhood/COVID19_Classification)
+
+- 🎮 **FIFA 선수 데이터 크롤링**  
+  FIFA Online 데이터 수집 후 포지션별 선수 통계 분석  
+  [🔗 보기](https://github.com/sleepyhood/FIFA_Crawling)
+
 
 </div>
 
