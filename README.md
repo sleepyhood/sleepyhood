@@ -2,7 +2,6 @@
 
 ***
 
-<div align="center">
 
 [![sleepyhood](https://img.shields.io/badge/medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@smartosw) <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
@@ -12,6 +11,7 @@
 ### ☕ 커피를 제일 좋아합니다.
 
 
+<div align="center">
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=smartosw)](https://solved.ac/smartosw)
@@ -27,7 +27,7 @@
 
 
 [port]: https://sleepyhood.github.io/osw_portfolio/#/
-
+</div>
 ---
 
 ## ⌨️ Skills
@@ -77,7 +77,7 @@
   [🔗 보기](https://github.com/sleepyhood/FIFA_Crawling)
 
 
-</div>
+
 
 
 
