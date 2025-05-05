@@ -23,7 +23,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smartosw)](https://solved.ac/smartosw/)
 
 
-<span style="color:red"> ~~React Portfolio: 📌 React 기반 포트폴리오 페이지: 현재 개편 중입니다. (곧 업데이트 예정) </span>
+<span style="color:red"> 📌 React 기반 포트폴리오 페이지: 현재 개편 중입니다. (곧 업데이트 예정) </span>
 
 
 [port]: https://sleepyhood.github.io/osw_portfolio/#/
