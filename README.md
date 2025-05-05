@@ -63,8 +63,8 @@
 
 | 프로젝트 | 설명 | 링크 |
 |----------|------|------|
-| **Streaming Blur Service** | 실시간 영상 스트리밍 블러 필터 적용 | [🔗 보기](https://github.com/...) |
-| **Microbial-based_disease_classification** | 미생물 데이터기반 feature-selection | [🔗 보기](https://github.com/...) |
+| **Streaming Blur Service** | 실시간 영상 스트리밍 블러 필터 적용 | [🔗 보기](https://github.com/sleepyhood/Capstone_Design) |
+| **Microbial-based_disease_classification** | 미생물 데이터기반 feature-selection | [🔗 보기](https://github.com/sleepyhood/Microbial-based_disease_classification) |
 
 ***
 
@@ -72,8 +72,8 @@
 
 | 프로젝트 | 설명 | 링크 |
 |----------|------|------|
-| **COVID-19 Classification (R)** | 지도학습 분류 (KNN, varImp 등) | [🔗 보기](https://github.com/...) |
-| **FIFA Rank Visualization** | FIFA 랭킹 시각화 웹 앱 | [🔗 보기](https://github.com/...) |
+| **COVID-19 Classification (R)** | 지도학습 분류 (KNN, varImp 등) | [🔗 보기](https://github.com/sleepyhood/COVID19_Classification) |
+| **FIFA Rank Visualization** | FIFA 랭킹 시각화 웹 앱 | [🔗 보기](https://github.com/sleepyhood/FIFA_Crawling) |
 
 
 
