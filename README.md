@@ -49,13 +49,6 @@
 
 ***
 
-## 🧪 Personal Projects
-
-| 프로젝트 | 설명 | 링크 |
-|----------|------|------|
-| **COVID-19 Classification** | 딥러닝 기반의 감염 분류 모델 구축 프로젝트 | [🔗 Repository](https://github.com/sleepyhood/COVID19_Classification) |
-| **FIFA Rank Visualization** | FIFA 랭킹 데이터를 시각화한 웹 애플리케이션 | [🔗 Repository](https://github.com/sleepyhood/FIFA_Crawling) |
-| **Streaming Blur Service** | 실시간 영상 스트리밍에 블러 필터 적용 서비스 | [🔗 Repository](https://github.com/sleepyhood/Capstone_Design) |
 
 <!--
 [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/bacaac93-ca47-486b-8a82-68b8b919a032)](https://github.com/sleepyhood/COVID19_Classification) 
@@ -65,19 +58,23 @@
 [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/9846deca-27a1-4123-a8b7-6e3cf3e82cd1)](https://github.com/sleepyhood/Titanic_Survivor_Predictions) 
 -->
 
+
+## 🧪 Personal Projects
+
+| 프로젝트 | 설명 | 링크 |
+|----------|------|------|
+| **COVID-19 Classification** | 딥러닝 기반 감염 분류 모델 구축 | [🔗 보기](https://github.com/...) |
+| **FIFA Rank Visualization** | FIFA 랭킹 시각화 웹 앱 | [🔗 보기](https://github.com/...) |
+| **Streaming Blur Service** | 실시간 영상 스트리밍 블러 필터 적용 | [🔗 보기](https://github.com/...) |
+
 ***
 
 ## 📦 Archived Projects
-> 한때 열정적으로 만들었지만, 지금은 발전의 발판이 된 추억의 프로젝트들입니다.
 
-- 🦠 **COVID-19 Classification**  
-  학부 시절 R을 사용해 만든 지도학습 분류 프로젝트 (KNN, varImp 등 활용)  
-  [🔗 보기](https://github.com/sleepyhood/COVID19_Classification)
-
-- 🎮 **FIFA 선수 데이터 크롤링**  
-  FIFA Online 데이터 수집 후 포지션별 선수 통계 분석  
-  [🔗 보기](https://github.com/sleepyhood/FIFA_Crawling)
-
+| 프로젝트 | 설명 | 링크 |
+|----------|------|------|
+| **COVID-19 Classification (R)** | 지도학습 분류 (KNN, varImp 등) | [🔗 보기](https://github.com/...) |
+| **FIFA 선수 데이터 크롤링** | 포지션별 선수 통계 분석 | [🔗 보기](https://github.com/...) |
 
 
 
