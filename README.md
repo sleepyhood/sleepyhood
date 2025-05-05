@@ -74,7 +74,7 @@
 |----------|------|------|
 | **COVID-19 Classification (R)** | 지도학습 분류 (KNN, varImp 등) | [🔗 보기](https://github.com/sleepyhood/COVID19_Classification) |
 | **FIFA Rank Visualization** | FIFA 랭킹 시각화 웹 앱 | [🔗 보기](https://github.com/sleepyhood/FIFA_Crawling) |
-
+| **Titanic_Survivor_Predictions** |  kaggle 타이타닉 생존자 예측 | [🔗 보기](https://github.com/sleepyhood/Titanic_Survivor_Predictions) |
 
 
 
