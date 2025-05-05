@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=OSW's%20GitHub&height=200&fontSize=100&animation=fadeIn)
 
 ***
-<div>
-<div align="left">
+
+<div align="center">
 
 [![sleepyhood](https://img.shields.io/badge/medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@smartosw) <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
@@ -11,9 +11,8 @@
 ### 🤓 프로그래밍 학원에서 학생들을 가르치고 있습니다.
 ### ☕ 커피를 제일 좋아합니다.
 
-</div>
 
-<div align="center">
+
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=smartosw)](https://solved.ac/smartosw)
 
@@ -59,7 +58,6 @@ _(이미지를 누르면 해당 **repository**로 이동합니다.)_
 [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/9846deca-27a1-4123-a8b7-6e3cf3e82cd1)](https://github.com/sleepyhood/Titanic_Survivor_Predictions) 
 
 
-</div>
 
 </div>
 
