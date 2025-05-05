@@ -6,7 +6,9 @@
 
 [![sleepyhood](https://img.shields.io/badge/medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@smartosw) <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
-## 😆 안녕하세요. 웹개발과 데이터 분석에 빠진 신입 개발자입니다.
+## 😆 안녕하세요. 👋 AI 및 웹 백엔드 개발에 흥미를 갖고 다양한 사이드 프로젝트를 진행 중입니다.  
+## 교육 경험을 바탕으로 기술을 명확히 이해하고, 사용자 중심의 서비스를 만드는 것을 지향합니다.
+
 ### 🤓 프로그래밍 학원에서 학생들을 가르치고 있습니다.
 ### ☕ 커피를 제일 좋아합니다.
 
