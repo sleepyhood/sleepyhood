@@ -26,7 +26,8 @@
 <span style="color:red"> 📌 React 기반 포트폴리오 페이지: 현재 개편 중입니다. (곧 업데이트 예정) </span>
 
 
-[port]: https://sleepyhood.github.io/osw_portfolio/#/
+<!--[port]: https://sleepyhood.github.io/osw_portfolio/#/-->
+
 ---
 
 ## ⌨️ Skills
