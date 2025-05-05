@@ -57,12 +57,13 @@
 | **FIFA Rank Visualization** | FIFA 랭킹 데이터를 시각화한 웹 애플리케이션 | [🔗 Repository](https://github.com/sleepyhood/FIFA_Crawling) |
 | **Streaming Blur Service** | 실시간 영상 스트리밍에 블러 필터 적용 서비스 | [🔗 Repository](https://github.com/sleepyhood/Capstone_Design) |
 
+<!--
 [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/bacaac93-ca47-486b-8a82-68b8b919a032)](https://github.com/sleepyhood/COVID19_Classification) 
 [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/fae58ba2-cf82-49b7-8646-8bd0e9c74840)](https://github.com/sleepyhood/FIFA_Crawling) 
 [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/4d2865d5-90c5-4345-bdf9-1d0a0265644d)](https://github.com/sleepyhood/Capstone_Design) 
 [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/f93ab8c0-1301-4e2c-8af0-99008a05559e)](https://github.com/sleepyhood/Microbial-based_disease_classification) 
 [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/9846deca-27a1-4123-a8b7-6e3cf3e82cd1)](https://github.com/sleepyhood/Titanic_Survivor_Predictions) 
-
+-->
 
 
 </div>
