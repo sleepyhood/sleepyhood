@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=OSW's%20GitHub&height=200&fontSize=100&animation=fadeIn)
 
 ***
-
+<div>
 <div align="left">
 
 [![sleepyhood](https://img.shields.io/badge/medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@smartosw) <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
@@ -61,6 +61,7 @@ _(이미지를 누르면 해당 **repository**로 이동합니다.)_
 
 </div>
 
+</div>
 
 
 
