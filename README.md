@@ -2,7 +2,7 @@
 
 ***
 
-<div align="center">
+<div align="left">
 
 [![sleepyhood](https://img.shields.io/badge/medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@smartosw) <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
@@ -11,8 +11,9 @@
 ### 🤓 프로그래밍 학원에서 학생들을 가르치고 있습니다.
 ### ☕ 커피를 제일 좋아합니다.
 
+</div>
 
-
+<div align="center">
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=smartosw)](https://solved.ac/smartosw)
 
