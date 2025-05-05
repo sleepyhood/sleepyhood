@@ -63,9 +63,8 @@
 
 | 프로젝트 | 설명 | 링크 |
 |----------|------|------|
-| **COVID-19 Classification** | 딥러닝 기반 감염 분류 모델 구축 | [🔗 보기](https://github.com/...) |
-| **FIFA Rank Visualization** | FIFA 랭킹 시각화 웹 앱 | [🔗 보기](https://github.com/...) |
 | **Streaming Blur Service** | 실시간 영상 스트리밍 블러 필터 적용 | [🔗 보기](https://github.com/...) |
+| **Microbial-based_disease_classification** | 미생물 데이터기반 feature-selection | [🔗 보기](https://github.com/...) |
 
 ***
 
@@ -74,7 +73,8 @@
 | 프로젝트 | 설명 | 링크 |
 |----------|------|------|
 | **COVID-19 Classification (R)** | 지도학습 분류 (KNN, varImp 등) | [🔗 보기](https://github.com/...) |
-| **FIFA 선수 데이터 크롤링** | 포지션별 선수 통계 분석 | [🔗 보기](https://github.com/...) |
+| **FIFA Rank Visualization** | FIFA 랭킹 시각화 웹 앱 | [🔗 보기](https://github.com/...) |
+
 
 
 
