@@ -41,7 +41,6 @@
 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 
-***
 
 ### 🏫Education🏫
 
@@ -65,6 +64,8 @@
 [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/f93ab8c0-1301-4e2c-8af0-99008a05559e)](https://github.com/sleepyhood/Microbial-based_disease_classification) 
 [![sleepyhood](https://github.com/sleepyhood/sleepyhood/assets/69490791/9846deca-27a1-4123-a8b7-6e3cf3e82cd1)](https://github.com/sleepyhood/Titanic_Survivor_Predictions) 
 -->
+
+***
 
 ## 📦 Archived Projects
 > 한때 열정적으로 만들었지만, 지금은 발전의 발판이 된 추억의 프로젝트들입니다.
