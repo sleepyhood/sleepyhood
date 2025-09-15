@@ -64,12 +64,12 @@
 
 | 프로젝트 | 설명 | 역할 및 성과 | 링크 |
 |----------|------|-------------|------|
-| **학원 인하우스 서비스 개발** | 학원 내 프로그래밍 사이트의 **진도율 시각화** 및 **숙제 기록 관리 시스템** 구현 | Flask 기반 백엔드 + DB 설계 및 API 개발, 학생 데이터 분석 UI 제공 | [🔗 보기](https://github.com/sleepyhood/learning-tracker-api) |
-| **AWS 온라인 강의 제작 (외주)** | AWS 기반 **50분 × 15주 분량 강의 녹화** 및 학습용 실습 자료 제작 | 강의 기획·스크립트 작성·녹화 수행 | [🔗 보기](https://github.com/sleepyhood/Capstone_Design) |
-| **Streaming Blur Service (캡스톤)** | 실시간 영상 스트리밍에 **인물 블러 처리 및 욕설 검출** 기능 제공 | Flask + OpenCV, WebRTC 적용 / 팀 프로젝트 리드 | [🔗 보기](https://github.com/sleepyhood/Capstone_Design) |
-| **Scratch2 기반 모의고사 채점기** | Scratch 코드 자동 검증 및 채점 환경 구축 | Python + HTML 기반 채점기 / 학원 교재와 연계 | [🔗 보기](https://github.com/sleepyhood/scratch_exam) |
-| **Microbial-based_disease_classification** | 미생물 데이터 기반 질병 분류 및 특징 선택 연구 | Python, scikit-learn 활용 / 수업 연구 프로젝트 최우수 성적 | [🔗 보기](https://github.com/sleepyhood/Microbial-based_disease_classification) |
-| **NYPC 1라운드 대비 교안** | 넥슨 청소년 프로그래밍 챌린지 대비 문제풀이 및 해설 자료 제작 | 문제 풀이 가이드라인 작성 및 수업 진행 | [🔗 보기](https://github.com/sleepyhood/250809_NYPC_1Round) |
+| **학원 인하우스 서비스 개발** | 학원 내 프로그래밍 사이트의 **진도율 시각화** 및 **숙제 기록 관리 시스템** 구현 | Flask 기반 백엔드 + DB 설계 및 API 개발, 학생 데이터 분석 UI 제공 <br> ⚡ 기여: 진도율 시각화 알고리즘 설계, 데이터 처리 최적화 | [🔗 보기](https://github.com/sleepyhood/learning-tracker-api) |
+| **AWS 온라인 강의 제작 (외주)** | AWS 기반 **50분 × 15주 분량 강의 녹화** 및 학습용 실습 자료 제작 | 강의 기획·스크립트 작성·녹화 수행 <br> ⚡ 기여: 학습용 실습 자료 제작, 강의 품질 관리 | [🔗 보기](https://github.com/sleepyhood/250810-konyang-cloud-computing) |
+| **Streaming Blur Service (캡스톤)** | 실시간 영상 스트리밍에 **인물 블러 처리 및 욕설 검출** 기능 제공 | Flask + OpenCV, WebRTC 적용 / 팀 프로젝트 리드 <br> ⚡ 기여: WebRTC 지연 문제 해결, OpenCV 최적화, 팀 협업 조율 | [🔗 보기](https://github.com/sleepyhood/Capstone_Design) |
+| **Scratch2 기반 모의고사 채점기** | Scratch 코드 자동 검증 및 채점 환경 구축 | Python + HTML 기반 채점기 / 학원 교재와 연계 <br> ⚡ 기여: 자동 채점 로직 구현, UI 개선 | [🔗 보기](https://github.com/sleepyhood/scratch_exam) |
+| **Microbial-based_disease_classification** | 미생물 데이터 기반 질병 분류 및 특징 선택 연구 | Python, scikit-learn 활용 / 수업 연구 프로젝트 최우수 성적 <br> ⚡ 기여: 데이터 전처리 및 모델 성능 비교, 변수 선택 전략 | [🔗 보기](https://github.com/sleepyhood/Microbial-based_disease_classification) |
+| **NYPC 1라운드 대비 교안** | 넥슨 청소년 프로그래밍 챌린지 대비 문제풀이 및 해설 자료 제작 | 문제 풀이 가이드라인 작성 및 수업 진행 <br> ⚡ 기여: 문제 분석 및 해설 작성, 수업 자료 구조화 | [🔗 보기](https://github.com/sleepyhood/250809_NYPC_1Round) |
 
 ***
 
