@@ -1,16 +1,19 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=OSW's%20GitHub&height=200&fontSize=100&animation=fadeIn)
 
 ***
 
 
-
+  
 [![sleepyhood](https://img.shields.io/badge/medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@smartosw) <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
+  
 ## 📌 About Me
-- 현재 **프로그래밍 학원 강사**로 텍스트 코딩 및 알고리즘 교육 진행  
-- 프로그래밍 대회 대비 지도(NYPC, KOI 등) 및 교안 개발 경험  
-- 학원 내 **인하우스 서비스 개발**과 외주 강의 프로젝트 수행 경험  
-- 관심 분야: **웹 백엔드, AI 응용, 교육용 소프트웨어**
+#### 현재 **프로그래밍 학원 강사**로 텍스트 코딩 및 알고리즘 교육 진행  
+##### 프로그래밍 대회 대비 지도(NYPC, KOI 등) 및 교안 개발 경험  
+##### 학원 내 **인하우스 서비스 개발**과 외주 강의 프로젝트 수행 경험  
+##### 관심 분야: **웹 백엔드, AI 응용, 교육용 소프트웨어**
 
 
 
@@ -84,7 +87,6 @@
 
 
 
-
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
 
-
+</div>
