@@ -1,15 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=OSW's%20GitHub&height=200&fontSize=100&animation=fadeIn)
 
 ***
-<div align="center">
+
 
 
 [![sleepyhood](https://img.shields.io/badge/medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@smartosw) <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
-## 😆 안녕하세요. AI 및 웹 백엔드 개발에 흥미를 갖고 다양한 사이드 프로젝트를 진행 중입니다.  
-### 👋 교육 경험을 바탕으로 기술을 명확히 이해하고, 사용자 중심의 서비스를 만드는 것을 지향합니다.
-### 🤓 프로그래밍 학원에서 학생들을 가르치고 있습니다.
-### ☕ 커피를 제일 좋아합니다.
+## 📌 About Me
+- 현재 **프로그래밍 학원 강사**로 텍스트 코딩 및 알고리즘 교육 진행  
+- 프로그래밍 대회 대비 지도(NYPC, KOI 등) 및 교안 개발 경험  
+- 학원 내 **인하우스 서비스 개발**과 외주 강의 프로젝트 수행 경험  
+- 관심 분야: **웹 백엔드, AI 응용, 교육용 소프트웨어**
 
 
 
@@ -59,12 +60,16 @@
 -->
 
 
-## 🧪 Personal Projects
+## 🧪 Featured Projects
 
-| 프로젝트 | 설명 | 링크 |
-|----------|------|------|
-| **Streaming Blur Service** | 실시간 영상 스트리밍 블러 필터 적용 | [🔗 보기](https://github.com/sleepyhood/Capstone_Design) |
-| **Microbial-based_disease_classification** | 미생물 데이터기반 feature-selection | [🔗 보기](https://github.com/sleepyhood/Microbial-based_disease_classification) |
+| 프로젝트 | 설명 | 역할 및 성과 | 링크 |
+|----------|------|-------------|------|
+| **학원 인하우스 서비스 개발** | 학원 내 프로그래밍 사이트의 **진도율 시각화** 및 **숙제 기록 관리 시스템** 구현 | Flask 기반 백엔드 + DB 설계 및 API 개발, 학생 데이터 분석 UI 제공 | [🔗 보기](https://github.com/sleepyhood/learning-tracker-api) |
+| **AWS 온라인 강의 제작 (외주)** | AWS 기반 **50분 × 15주 분량 강의 녹화** 및 학습용 실습 자료 제작 | 강의 기획·스크립트 작성·녹화 수행 | [🔗 보기](https://github.com/sleepyhood/Capstone_Design) |
+| **Streaming Blur Service (캡스톤)** | 실시간 영상 스트리밍에 **인물 블러 처리 및 욕설 검출** 기능 제공 | Flask + OpenCV, WebRTC 적용 / 팀 프로젝트 리드 | [🔗 보기](https://github.com/sleepyhood/Capstone_Design) |
+| **Scratch2 기반 모의고사 채점기** | Scratch 코드 자동 검증 및 채점 환경 구축 | Python + HTML 기반 채점기 / 학원 교재와 연계 | [🔗 보기](https://github.com/sleepyhood/scratch_exam) |
+| **Microbial-based_disease_classification** | 미생물 데이터 기반 질병 분류 및 특징 선택 연구 | Python, scikit-learn 활용 / 수업 연구 프로젝트 최우수 성적 | [🔗 보기](https://github.com/sleepyhood/Microbial-based_disease_classification) |
+| **NYPC 1라운드 대비 교안** | 넥슨 청소년 프로그래밍 챌린지 대비 문제풀이 및 해설 자료 제작 | 문제 풀이 가이드라인 작성 및 수업 진행 | [🔗 보기](https://github.com/sleepyhood/250809_NYPC_1Round) |
 
 ***
 
@@ -82,4 +87,4 @@
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
 
-</div>
+
