@@ -4,9 +4,11 @@
 
 ***
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sleepyhood)
+
 
   
-[![sleepyhood](https://img.shields.io/badge/medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@smartosw) <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<!--[![sleepyhood](https://img.shields.io/badge/medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@smartosw) <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>-->
 
   
 ## 📌 About Me
