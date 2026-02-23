@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=OSW's%20GitHub&height=200&fontSize=100&animation=fadeIn)
 
